@@ -12,7 +12,11 @@ Counts the total value of collectibles in screenshots of Donkey Kong Country: Tr
 | Banana bunch | 5 |
 | Banana coin | 10 |
 
-https://github.com/user-attachments/assets/cc34883c-3193-43ab-b135-895058bd14af
+
+
+https://github.com/user-attachments/assets/c445fea4-3632-4854-817a-57ded0cbb851
+
+
 
 For each screenshot the script sums the values of all visible objects, then reports the mean absolute error (MAE) against the expected totals.
 
