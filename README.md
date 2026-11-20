@@ -4,7 +4,7 @@
 
 # Banana Counter
 
-Counts the total value of collectibles in screenshots of Donkey Kong Country: Tropical Freeze, using classical image processing with OpenCV. No machine learning is involved.
+Counts the total value of collectibles in screenshots of Donkey Kong Country: Tropical Freeze, using classical image processing with OpenCV.
 
 | Object | Value |
 |---|---|
